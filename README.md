@@ -8,7 +8,6 @@ Welcome to the Library Management System project! This simple Java application h
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -46,7 +45,3 @@ After running the project, you can use the command-line interface to interact wi
 ## Contributing
 
 Contributions are welcome! Feel free to open issues and pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
